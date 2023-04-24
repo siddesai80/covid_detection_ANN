@@ -8,7 +8,7 @@ This project was created as part of coursework for module 7088CEM Artificial Neu
 
 The code can be executed in google colab - <https://colab.research.google.com/>
 
-Make sure you upload the dataset files and speicfy the path for the same in the code. 
+Make sure you upload the dataset files and specify the path for the same in the code. 
 
 Code Example:
 ```
